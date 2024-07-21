@@ -1,0 +1,6 @@
+# ExpoCampeche
+Para descargar el proyecto en Visual Studio .Net, acceda a este link de one drive: https://1drv.ms/u/s!AveyY2B9y7i7q0LmSJ1QqPJdbdb2?e=qH17bq
+
+Para descargar la Base de Datos de esta app web de SQL Server, digijase a este link de one drive:  https://1drv.ms/f/s!AveyY2B9y7i7qz6OcEpWHnXxFH3B?e=o05Rse
+
+Feliz dia!
